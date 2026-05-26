@@ -1,10 +1,10 @@
-package com.campushub.college_service;
+package com.campushub.tenant;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CollegeServiceApplicationTests {
+class TenantServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
